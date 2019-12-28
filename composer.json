@@ -1,0 +1,12 @@
+{
+  "name": "jtervone/strv-viewer",
+  "description": "",
+  "require": {
+    "league/oauth2-client": "^2.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Strava\\": "includes/Strava/"
+    }
+  }
+}
